@@ -1,0 +1,18 @@
+{
+  "name": "create-html-elements",
+  "version": "0.0.1",
+  "description": "Scaffold a Vite HTML Elements project",
+  "type": "module",
+  "bin": {
+    "create-html-elements": "./src/index.js"
+  },
+  "files": ["src", "templates", "assets"],
+  "keywords": ["vite", "html", "static-site", "scaffold", "html-elements"],
+  "author": "Vincent Medina",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://codeberg.org.com/nexusocean/create-html-elements"
+  },
+  "homepage": "https://htmlelements.dev"
+}
