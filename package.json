@@ -1,6 +1,6 @@
 {
   "name": "create-html-elements",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "description": "Scaffold a Vite HTML Elements project",
   "type": "module",
   "bin": {
