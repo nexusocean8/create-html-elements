@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "vite": "^7.2.1",
-    "vite-plugin-html-elements": "^0.0.8"
+    "vite-plugin-html-elements": "^0.0.9"
   }
 }

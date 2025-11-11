@@ -335,7 +335,7 @@ body {
   height: 1.5rem;
 }
 
-.github-btn {
+.codeberg-btn {
   background-color: var(--color-primary);
   color: white !important;
   padding: 0.5rem 1rem;
@@ -344,7 +344,7 @@ body {
   transition: background-color 0.2s;
 }
 
-.github-btn:hover {
+.codeberg-btn:hover {
   background-color: var(--color-primary-dark);
 }
 
