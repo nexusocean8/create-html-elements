@@ -1,13 +1,13 @@
 {
   "name": "create-html-elements",
-  "version": "0.0.11",
+  "version": "0.1.0",
   "description": "Scaffold a Vite HTML Elements project",
   "type": "module",
   "bin": {
     "create-html-elements": "./src/index.js"
   },
   "files": ["src", "templates", "assets"],
-  "keywords": ["vite", "html", "static-site", "scaffold", "html-elements"],
+  "keywords": ["vite", "html", "static-site", "prototyping", "html-elements"],
   "author": "Vincent Medina",
   "license": "MIT",
   "repository": {
