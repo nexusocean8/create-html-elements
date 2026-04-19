@@ -1,6 +1,6 @@
 {
   "name": "create-html-elements",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "Scaffold a Vite HTML Elements project",
   "type": "module",
   "bin": {
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://codeberg.org/nexusocean/create-html-elements"
+    "url": "https://github.com/nexusocean8/create-html-elements"
   },
   "homepage": "https://htmlelements.dev"
 }
